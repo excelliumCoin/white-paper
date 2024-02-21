@@ -1,24 +1,24 @@
-title: A Decentralized Protocol for Remunerating the Open-Source Ecosystem
+title: Açık Kaynak Ekosisteminin Ücretlendirilmesine Yönelik Merkezi Olmayan Bir Protokol
 abstract: >
-  Creating an open, public and stable registry for all open-source software
-  would empower projects to publish releases independently rather than rely on
-  third parties who assemble this irregular data into hundreds of separate
-  (and duplicated) systems. Package maintainers will publish their releases to
-  a decentralized registry powered by a Byzantine fault-tolerant blockchain to
-  eliminate single sources of failure, provide immutable releases, and allow
-  communities to govern their regions of the open-source ecosystem,
-  independent of external agendas.
+Tüm açık kaynaklı yazılımlar için açık, genel ve istikrarlı bir kayıt defteri oluşturma
+  projelere, yayınları bağımsız olarak yayınlama yetkisi verecek
+  Bu düzensiz verileri yüzlerce ayrı veri halinde bir araya getiren üçüncü taraflar
+  (ve çoğaltılmış) sistemler. Paket koruyucuları sürümlerini şu adreste yayınlayacak:
+  Bizans hataya dayanıklı bir blok zinciri tarafından desteklenen merkezi olmayan bir kayıt defteri
+  Tek hata kaynaklarını ortadan kaldırın, değişmez sürümler sağlayın ve izin verin
+  toplulukların açık kaynak ekosistemindeki bölgelerini yönetmeleri,
+  Dış gündemlerden bağımsız.
   
-  tea incentivizes the maintenance of open-source by allowing network
-  participants to stake value against the packages they depend on and want to
-  secure. The tea protocol’s graph provides immutable package registration,
-  dependency requirements, package authenticity, and usage oracles to inform
-  the tea remuneration algorithm. Systematic inflation is distributed to all
-  packages based on that algorithm. If security or development issues are
-  found, developers can make claims supported by evidence against the package,
-  and slashing may occur. Members of the open-source community can review
-  packages for quality issues, and the protocol can respond to these reviews
-  by enacting proportional slashing events.
+  çay, ağa izin vererek açık kaynağın bakımını teşvik eder
+  Katılımcıların güvendikleri ve kullanmak istedikleri paketlere karşı değer kazanmaları
+  güvenli. Çay protokolünün grafiği değişmez paket kaydı sağlar,
+  bağımlılık gereksinimleri, paket orijinalliği ve bilgi vermek için kullanım oracle'ları
+  çay ücretlendirme algoritması. Sistematik enflasyon herkese dağıtılır
+  Bu algoritmaya dayalı paketler. Güvenlik veya geliştirme sorunları varsa
+  geliştiriciler pakete karşı kanıtlarla desteklenen iddialarda bulunabilir,
+  ve kesme meydana gelebilir. Açık kaynak topluluğunun üyeleri inceleyebilir
+  kalite sorunlarına yönelik paketler ve protokol bu incelemelere yanıt verebilir
+  orantılı kesme olaylarını yürürlüğe koyarak.
 
 author:
 - Max Howell
